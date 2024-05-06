@@ -37,5 +37,5 @@ To contribute, simply fork this repository, make your changes, and submit a pull
 
 ## License
 
-This repository is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This repository is licensed under the [MIT License](License).
 You are free to share and adapt the content for any purpose, even commercially, as long as you give appropriate credit to the original authors.
