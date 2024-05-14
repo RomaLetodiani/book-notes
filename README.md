@@ -15,13 +15,13 @@ This repository contains notes taken from various books. Each book has its own f
 
 Reading is essential for learning and growth. This repository is a collection of notes extracted from books on various topics:
 
-- [Think and Grow Rich](/Think%20and%20Grow%20Rich)
-- [Never Split the Difference](/Never%20Split%20the%20Difference)
-- [Atomic Habits](/Atomic%20Habits)
-- [Build a Second Brain](/Build%20a%20Second%20Brain)
 - [Hooked](/Hooked)
+- [Atomic Habits](/Atomic%20Habits)
 - [Becoming a Rainmaker](/Becoming%20a%20Rainmaker)
+- [Think and Grow Rich](/Think%20and%20Grow%20Rich)
+- [Build a Second Brain](/Build%20a%20Second%20Brain)
 - [Thinking Fast and Slow](/Thinking%20Fast%20and%20Slow)
+- [Never Split the Difference](/Never%20Split%20the%20Difference)
 
 The goal is to provide concise summaries and key takeaways from each book, making it easier for readers to grasp the main ideas without having to read the entire text.
 
