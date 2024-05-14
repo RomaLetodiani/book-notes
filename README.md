@@ -4,18 +4,24 @@ This repository contains notes taken from various books. Each book has its own f
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Contributing](#contributing)
-- [License](#license)
+- [Book Notes](#book-notes)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [How to Use This Repository](#how-to-use-this-repository)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 
-Reading is essential for learning and growth. This repository is a collection of notes extracted from books on various topics, including but not limited to:
+Reading is essential for learning and growth. This repository is a collection of notes extracted from books on various topics:
 
--
--
--
+- [Think and Grow Rich](/Think%20and%20Grow%20Rich)
+- [Never Split the Difference](/Never%20Split%20the%20Difference)
+- [Atomic Habits](/Atomic%20Habits)
+- [Build a Second Brain](/Build%20a%20Second%20Brain)
+- [Hooked]('/Hooked')
+- [Becoming a Rainmaker](/Becoming%20a%20Rainmaker)
+- [Thinking Fast and Slow](/Thinking%20Fast%20and%20Slow)
 
 The goal is to provide concise summaries and key takeaways from each book, making it easier for readers to grasp the main ideas without having to read the entire text.
 
