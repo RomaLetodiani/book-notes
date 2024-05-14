@@ -19,7 +19,7 @@ Reading is essential for learning and growth. This repository is a collection of
 - [Never Split the Difference](/Never%20Split%20the%20Difference)
 - [Atomic Habits](/Atomic%20Habits)
 - [Build a Second Brain](/Build%20a%20Second%20Brain)
-- [Hooked]('/Hooked')
+- [Hooked](/Hooked)
 - [Becoming a Rainmaker](/Becoming%20a%20Rainmaker)
 - [Thinking Fast and Slow](/Thinking%20Fast%20and%20Slow)
 
