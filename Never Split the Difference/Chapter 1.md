@@ -19,7 +19,7 @@ Here are some examples of calibrated questions:
 9. How do you see this benefiting both of us?
 10. What would it take to make this work for you?
 
-Before negotiating, understand human psychology: we are all crazy, unstable, irrational, impulsive, and emotionally driven. Raw intelligence and mathematical logic only help us hide our true selves and put on masks.
+Before negotiating, understand human psychology: we are all crazy, unstable, irrational, impulsive, and emotionally driven animals. Raw intelligence and mathematical logic only help us hide our true selves and put on masks.
 
 Avoid following a scripted, predetermined sequence of actions, offers, and counteroffers designed to achieve a specific outcome. For example, you might think that trying A, B, C, D will give you X, but real-world negotiations are far more unpredictable and complex. Unlike dealing with a robot, where a specific code or algorithm yields a certain answer, negotiation requires flexibility. You might need to do A, then D, and perhaps Q, because the outcome is often uncertain.
 
