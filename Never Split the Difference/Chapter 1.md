@@ -1,8 +1,10 @@
 # NEW RULES
-To buy time during negotiations, use the tactic of 'calibrated questions'—queries with no fixed answers that the other side can respond to. These questions give your counterpart the illusion of control, making them believe they have the answers and power. Meanwhile, you gain time to devise a strategy to win the negotiation.
+
+To buy time during negotiations, use the tactic of 'calibrated questions' — queries with no fixed answers that the other side can respond to. These questions give your counterpart the illusion of control, making them believe they have the answers and power. Meanwhile, you gain time to devise a strategy to win the negotiation.
 
 ## THE SMARTEST DUMB GUY IN THE ROOM
-Answering your calibrated questions should demamd deep emotional strengths and tactical phychological insights.
+
+Answering your calibrated questions should demand deep emotional strength and tactical psychological insight.
 
 Here are some examples of calibrated questions:
 
@@ -17,9 +19,9 @@ Here are some examples of calibrated questions:
 9. How do you see this benefiting both of us?
 10. What would it take to make this work for you?
 
-Before negotiating, understand human psychology: we are all crazy, unstable, irrational, impulsive, and emotionally driven machines. Raw intelligence and mathematical logic only help us hide our true selves and put on masks.
+Before negotiating, understand human psychology: we are all crazy, unstable, irrational, impulsive, and emotionally driven. Raw intelligence and mathematical logic only help us hide our true selves and put on masks.
 
-Avoid following a scripted predetermined sequence of actions, offers, and counteroffers designed to achieve a specific outcome. For example you would think that trying A, B, C, D will give you X but real-world negotiations are far more unpredictable and complex. Unlike dealing with a robot, where a specific code or algorithm yields a certain answer, negotiation requires flexibility. You might need to do A, then D, and perhaps Q, because the outcome is often uncertain.
+Avoid following a scripted, predetermined sequence of actions, offers, and counteroffers designed to achieve a specific outcome. For example, you might think that trying A, B, C, D will give you X, but real-world negotiations are far more unpredictable and complex. Unlike dealing with a robot, where a specific code or algorithm yields a certain answer, negotiation requires flexibility. You might need to do A, then D, and perhaps Q, because the outcome is often uncertain.
 
 ## OLD-SCHOOL NEGOTIATION
 
