@@ -45,7 +45,7 @@ Knowing how to affect your counterpart's System 1 thinking, by framing and deliv
 
 Conducting negotiations based on only System 2 concepts without the ability and tools to read, understand and manipulate the System 1, emotional underpinning, is like trying to make an omelet without first knowing how to crack an egg.
 ## THE FBI GETS EMOTIONAL
-People want to be understood and accepted and Listening is the cheapest and most effective concession we can use to get there. By listening intensely, a you demonstrate empathy and show a sincere desire to better understand what the other side is experiencing or is waiting to get out of the deal.
+People want to be understood and accepted and Listening is the cheapest and most effective concession we can use to get there. By listening intensely, you demonstrate empathy and show a sincere desire to better understand what the other side is experiencing or is waiting to get out of the deal.
 
 When individuals feel listened to, they become more self-aware and open to evaluating their own thoughts and feelings. This reduces defensiveness and increases their willingness to consider other viewpoints. As a result, they reach a calm and logical state, enhancing their problem-solving and negotiation skills, aligning with the principles of effective conflict resolution found in "Getting to Yes."
 
