@@ -20,8 +20,8 @@
   **How to Become the Smartest Person ... in Any Room**
 
   - #### Topics
-    - [The Smartest Dumb Guy In The Room](/Never%20Split%20the%20Difference/Chapter%201.md/#THE%20SMARTEST%20DUMB%20GUY%20IN%20THE%20ROOM)
-    - [Old-School Negotiation](/Never%20Split%20the%20Difference/Chapter%201.md/#OLD-SCHOOL%20NEGOTIATION)
+    - [The Smartest Dumb Guy In The Room](/Never%20Split%20the%20Difference/Chapter%201.md/#the-smartest-dumb-guy-in-the-room)
+    - [Old-School Negotiation](/Never%20Split%20the%20Difference/Chapter%201.md/#old-school-negotiation)
 
 - ## Chapter 2 | Be a Mirror
 
