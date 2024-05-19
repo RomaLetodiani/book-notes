@@ -1,13 +1,6 @@
 # Never Split the Difference
 
-### Negotiating As If Your Life Depended On It
-
-## Table of Contents
-
-- [Never Split the Difference](#never-split-the-difference)
-  - [Negotiating As If Your Life Depended On It](#negotiating-as-if-your-life-depended-on-it)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
+**Negotiating As If Your Life Depended On It**
 
 ## Introduction
 
@@ -15,13 +8,14 @@
 >
 > Life is a series of negotiations you should be prepared for: buying a car, negotiating a salary, buying a home, renegotiating rent, deliberating with your partner. Taking emotional intelligence and intuition to the next level, Never Split the Difference gives you the competitive edge in any discussion.
 
-- ## Chapter 1 | The New Rules
+- ## [Chapter 1 | The New Rules](/Never%20Split%20the%20Difference/Chapter%201.md/#new-rules)
 
   **How to Become the Smartest Person ... in Any Room**
 
   - #### Topics
-    - [The Smartest Dumb Guy In The Room](/Never%20Split%20the%20Difference/Chapter%201.md/#the-smartest-dumb-guy-in-the-room)
-    - [Old-School Negotiation](/Never%20Split%20the%20Difference/Chapter%201.md/#old-school-negotiation)
+    - [THE SMARTEST DUMB GUY IN THE ROOM](/Never%20Split%20the%20Difference/Chapter%201.md/#the-smartest-dumb-guy-in-the-room)
+    - [OLD-SCHOOL NEGOTIATION](/Never%20Split%20the%20Difference/Chapter%201.md/#old-school-negotiation)
+    - [HEART VS. MIND](/Never%20Split%20the%20Difference/Chapter%201.md/#heart-vs-mind)
 
 - ## Chapter 2 | Be a Mirror
 
