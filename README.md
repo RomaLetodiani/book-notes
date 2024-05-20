@@ -17,11 +17,13 @@ Reading is essential for learning and growth. This repository is a collection of
 
 - [Hooked](/Hooked)
 - [Atomic Habits](/Atomic%20Habits)
-- [Becoming a Rainmaker](/Becoming%20a%20Rainmaker)
-- [Think and Grow Rich](/Think%20and%20Grow%20Rich)
+- [Steal Like An Artist](/Steal%20Like%20An%20Artist)
 - [Build a Second Brain](/Build%20a%20Second%20Brain)
+- [Think and Grow Rich](/Think%20and%20Grow%20Rich)
 - [Thinking Fast and Slow](/Thinking%20Fast%20and%20Slow)
+- [Becoming a Rainmaker](/Becoming%20a%20Rainmaker)
 - [Never Split the Difference](/Never%20Split%20the%20Difference)
+- [How to Win and Influence People](/How%20to%20Win%20and%20Influence%20People)
 
 The goal is to provide concise summaries and key takeaways from each book, making it easier for readers to grasp the main ideas without having to read the entire text.
 
