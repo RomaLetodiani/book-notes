@@ -10,7 +10,7 @@
 
 ---
 
-- ## [Chapter 1 | The New Rules](/Never%20Split%20the%20Difference/Chapter%201.md/#new-rules)
+- ## [Chapter 1 | The New Rules](/Never%20Split%20the%20Difference/Chapter%201.md#new-rules)
 
   **How to Become the Smartest Person ... in Any Room**
 
@@ -24,13 +24,13 @@
 
 ---
 
-- ## [Chapter 2 | Be a Mirror](/Never%20Split%20the%20Difference/Chapter%201.md/#new-rules)
+- ## [Chapter 2 | Be a Mirror](/Never%20Split%20the%20Difference/Chapter%202.md#be-a-mirror)
 
   **How to Quickly Establish Rapport**
 
   - #### Topics
-    - [ASSUMPTIONS BLIND, HYPOTHESES GUIDE](/Never%20Split%20the%20Difference/Chapter%201.md)
-    - [CALM THE SCHIZOPHRENIC](/Never%20Split%20the%20Difference/Chapter%201.md)
+    - [ASSUMPTIONS BLIND, HYPOTHESES GUIDE](/Never%20Split%20the%20Difference/Chapter%202.md#assumptions-blind-hypotheses-guide)
+    - [CALM THE SCHIZOPHRENIC](/Never%20Split%20the%20Difference/Chapter%202.md#calm-the-schizophrenic)
 
 - ## Chapter 3 | Don't Feel Their Pain, Label It
 
