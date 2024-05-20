@@ -16,7 +16,7 @@
     - [THE SMARTEST DUMB GUY IN THE ROOM](/Never%20Split%20the%20Difference/Chapter%201.md/#the-smartest-dumb-guy-in-the-room)
     - [OLD-SCHOOL NEGOTIATION](/Never%20Split%20the%20Difference/Chapter%201.md/#old-school-negotiation)
     - [HEART VS. MIND](/Never%20Split%20the%20Difference/Chapter%201.md/#heart-vs-mind)
-    - <a href="https://github.com/RomaLetodiani/Book-Notes/blob/main/Never%20Split%20the%20Difference/Chapter%201.md/#the-fbi-gets-emotional" target="_blank">THE FBI GETS EMOTIONAL</a>
+    - <a href="https://github.com/RomaLetodiani/Book-Notes/blob/main/Never%20Split%20the%20Difference/Chapter%201.md/#the-fbi-gets-emotional" target="__blank">THE FBI GETS EMOTIONAL</a>
     - [HEART VS. MIND](/Never%20Split%20the%20Difference/Chapter%201.md/#life-is-negotiation)
     - [Book](/Never%20Split%20the%20Difference/Chapter%201.md/#book)
 
