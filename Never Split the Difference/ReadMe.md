@@ -32,33 +32,49 @@
     - [ASSUMPTIONS BLIND, HYPOTHESES GUIDE](/Never%20Split%20the%20Difference/Chapter%202.md#assumptions-blind-hypotheses-guide)
     - [CALM THE SCHIZOPHRENIC](/Never%20Split%20the%20Difference/Chapter%202.md#calm-the-schizophrenic)
 
+---
+
 - ## Chapter 3 | Don't Feel Their Pain, Label It
 
 Here, the author discusses the importance of labeling emotions in negotiation.
+
+---
 
 - ## Chapter 4 | Beware "Yes" — Master "No"
 
 This chapter focuses on the power of saying "no" in negotiation.
 
+---
+
 - ## Chapter 5 | Trigger the Two Words That Immediately Transform Any Negotiation
 
 The author reveals the two words that can transform any negotiation.
+
+---
 
 - ## Chapter 6 | Bend Their Reality
 
 This chapter explores the concept of bending the other party's reality.
 
+---
+
 - ## Chapter 7 | Create the Illusion of Control
 
 Here, the author discusses how to create the illusion of control in negotiation.
+
+---
 
 - ## Chapter 8 | Guarantee Execution
 
 This chapter focuses on ensuring execution of agreements.
 
+---
+
 - ## Chapter 9 | Bargain Hard
 
 In this chapter, the author provides strategies for bargaining hard.
+
+---
 
 - ## Chapter 10 | Find the Black Swan
 
