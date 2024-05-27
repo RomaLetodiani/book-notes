@@ -24,6 +24,7 @@ Reading is essential for learning and growth. This repository is a collection of
 - [Becoming a Rainmaker](/Becoming%20a%20Rainmaker)
 - [Never Split the Difference](/Never%20Split%20the%20Difference)
 - [How to Win and Influence People](/How%20to%20Win%20and%20Influence%20People)
+- [Driven: how Human Nature Shapes our Choices](/Driven%20how%20Human%20Nature%20Shapes%20our%20Choices/)
 
 The goal is to provide concise summaries and key takeaways from each book, making it easier for readers to grasp the main ideas without having to read the entire text.
 
