@@ -16,10 +16,12 @@ This repository contains notes taken from various books. Each book has its own f
 Reading is essential for learning and growth. This repository is a collection of notes extracted from books on various topics:
 
 - [Hooked](/Hooked)
+- [The DIP](/The%20Dip/)
 - [Atomic Habits](/Atomic%20Habits)
 - [Steal Like An Artist](/Steal%20Like%20An%20Artist)
-- [Build a Second Brain](/Build%20a%20Second%20Brain)
+- [Surrounded by Idiots](/Surrounded%20by%20Idiots)
 - [Think and Grow Rich](/Think%20and%20Grow%20Rich)
+- [Build a Second Brain](/Build%20a%20Second%20Brain)
 - [Thinking Fast and Slow](/Thinking%20Fast%20and%20Slow)
 - [Becoming a Rainmaker](/Becoming%20a%20Rainmaker)
 - [Never Split the Difference](/Never%20Split%20the%20Difference)
