@@ -42,7 +42,7 @@ The emotional brain-that animalistic, unreliable, and irrational beast-could be 
 Most of the humans have two systems of thought:
 
 - System 1, our animal mind, which is fast instinctive and emotional.
-- System 2, more logical, delibrate, slow, it guides and steers our rational thoughts.
+- System 2, more logical, deliberative, slow, it guides and steers our rational thoughts.
 
 System 1's inchoate believes, feelings and impressions are the main sources of the explicit believes and delibrate choices of System 2.
 They're the spring that feeds the river. We react emotionally with System 1 to a suggestion or question. Then that System 1 reaction informs and effect creates the System 2 answer.
