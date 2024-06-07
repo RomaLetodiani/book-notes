@@ -587,5 +587,83 @@ Very quietly, the Microsofts of the world hang in, going from version 1 to versi
 ---
 
 #### What Business Are You In?
+You should (must) have to quit the product or feature or design, and yes you need to do it regurarly, if you're going to grow and have the resources to invest in the right businesses. But no, you mustn't quit a market or a strategy or a niche.
+
+Don't fall in love with a tactic and defend it forever. Instead, decide once and for all whether you're in a market or not. And if you are, get through that Dip.
+
+Persistence is key in the market's eyes. Don't be discouraged by setbacks – overcoming challenges demonstrates your commitment.  The market seeks signals of credibility, strength, and reliability.  Remember, most people prefer established and trusted options.
 
 ---
+
+#### The Opposite of Quitting Isn't "Waiting Around"
+
+the opposite of quitting is rededication. The opposite of quitting is an invigorated new strategy designed to break the problem apart
+
+---
+
+#### It's a mistake to view the Dip as static
+When the pain gets so bad that you're ready to quit, you've set yourself up as someone with nothing to lose. And someone with nothing to lose has quite a bit of power. You can go for broke. Challenge authority. Attempt unattempted alternatives. Lean into a problem; lean so far that you might just lean right through it.
+
+---
+
+#### Giving up in the Dip Is Usually a Short-term Decision-and a Bad One
+A common mistake with lasting consequences. When people quit, they are often focused on the short-term benefits. People often prioritize immediate relief from difficulty, stopping when things get challenging, In other words, "If it hurts, they just stop to get rid of pain"
+
+---
+
+#### No One Quits the Boston Marathon at Mile 25
+
+Persistent people are able to visualize the idea of light at the end of the tunnel when others can't see it. At the same time, the smartest people are realistic about not imagining light when there isn't any.
+
+Winners understand that taking that pain now prevents a lot more pain later.
+
+The decision to quit or not is a simple evaluation: Is the pain of the Dip worth the benefit of the light at the end of the tunnel.
+
+---
+
+## If You're Not Going to Get to #1, You Might as Well Quit Now
+
+### QUIT!
+
+> It’s okay to quit, sometimes.
+
+**In fact, it's okay to quit often.**   
+You should quit if you're on a dead-end path. You should quit if you're facing a Cliff. You should quit if the project you're working on has a Dip that isn't worth the reward at the end. Quitting the projects that don't go anywhere is essential if you want to stick out the right ones. You don't have the time or the passion or the resources to be the best in the world at both.
+
+---
+
+#### Quitting a Tactic vs. Quitting a Strategy
+
+Getting off a Cul-de-Sac is not a moral failing. It's just smart. Seeing a Cliff coming far in advance isn't a sign of weakness. Instead, it represents real insight and bravery. It frees up your energy for the Dip.
+
+---
+#### That Noise Inside Your Head
+
+
+
+---
+#### Quitting as an Intelligent Strategy
+The time to look for a new job is when you don't need one. The time to switch jobs is before it feels comfortable. Go. Switch. Challenge yourself; get yourself a raise and a promotion. You owe it to your career and your skills.
+
+If your job is a Cul-de-Sac, you have to quit or accept the fact that your career is over.
+
+---
+
+#### Quitting Is Not the Same as Failing
+
+Strategic quitting is a conscious decision you make based on the choices that are available to you. If you realize you're at a dead end (Cul-de-Sac) compared with what you could be investing in, quitting is not only a reasonable choice, it's a smart one.
+
+Failing, on the other hand, means that your dream is over. Failing happens when you give up, when there are no other options, or when you quit so often that you've used up all your time and resources.
+
+It's easy to wring your hands about becoming a failure. Quitting smart, though, is a great way to avoid failing. Instead of worrying about failure, let's brainstorm strategies for success. It's natural to worry about setbacks, but they're opportunities to learn and grow.
+
+---
+
+#### Coping Is a Lousy Alternative to Quitting
+
+
+
+---
+
+
+
