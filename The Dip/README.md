@@ -502,3 +502,90 @@ Here are a bunch of systems that are dependent on Dips. These Dips are in the pl
 ---
 
 #### Seeing the Curve in Advance
+it's pretty easy to determine whether something is a Cul-de-Sac or a Dip. The hard part is finding the guts to do something about it.
+The pain (and the waste) comes when the optimists have to make hard choices when they get stuck in the Dip.
+
+---
+
+#### Time to Cancel the Space Shuttle
+There's no reason to keep investing in something that is not going to get better.
+
+Do you have the guts to quit when facing a Cul-de-Sac?
+
+So why don't we cancel it? Why not quit? Same reason as always. Because day to day, it's easier to stick with something that we're used to, that doesn't make too many waves, that doesn't hurt.
+
+---
+
+#### The Valley of Death
+That's the goal of any competitor: to create a Dip so long and so deep that the nascent competition can't catch up.
+
+Microsoft does it. They've built so many relationships and established so many standards that it's essentially inconceivable that someone will challenge Word or Excel-at least until the platform changes.
+
+Make it through the competition's barriers and you get to be king for a while.
+
+See the book's examples on dominating the market. 
+
+---
+
+#### The Big Opportunity
+If you can get through the Dip, if you can keep going when the system is expecting you to stop, you will achieve extraordinary results. very few people persist through a challenging period (the Dip) to achieve success on the other side, so they generate more value.
+
+When you're the best in the world, you share the benefits (the income, the attention, the privileges, the respect) with just a handful of people or organizations or brands.
+
+You know this already. You're not stupid, and you've noticed all your life that the big benefits accrue to those who don't quit. And it hasn't made a difference so far, so why should you listen to this now?
+
+Because you grew up believing that quitting is a moral failing. Quitting feels like a go-down moment, a moment, where you look yourself in the eye and blink. Of course you are trying your best. But you just can’t do it.
+
+You should rather have focus on quitting (or not quitting) as a go-up opportunity. Quitting stuff you don't care about or the stuff you're mediocre or better yet quitting the Cul-de-Sacs frees up your resources to obsess about the Dips that matter, You should remember that it's not about avoiding the humilation of failure.
+
+---
+
+#### Average Is for Losers
+Quitting at the right time is difficult. Most of us don't have the guts to quit. Worse, when faced with the Dip, sometimes we don't quit. Instead, we get mediocre.
+
+The most common response to the Dip is to play it safe. To do ordinary work, blameless work, work that's beyond reproach. When faced the Dip, most people try to average their way to sucess.
+
+To be the best in the world, you must do something exceptional. Not just survive the Dip, but use the Dip as an opportunity to create something so extraordinary that people can't help but talk about it, recommend it and, of course, choose it.
+
+<img src='/The Dip/Assets/fail.jpg'/>
+
+The next time you catch yourself being average when you feeel like quitting, realize that you have only two good choices: Quit ir be Exceptional. Average is for losers.
+
+Average feels safe but it's not. it's the last choice - path of least resistance. The temptation to be average is just another kind of quitting, which should be avoided.
+
+You deserve better than average.
+
+---
+
+#### Serial Quitters Spend a Lot of Time in Line
+While starting up something new is thrilling, your effort will only pays off after you get through the Dip.
+Countless entrepreneurs have perfected the starting part, but give up long before finishing paying their dues.    
+The bad news is that when you start over, you get very little credit for how long you stood in line with your last great venture.
+
+if it takes ten impressions to make an impact, and you've delieved the eight, that switch is going to cost you a lot of time, money and energy.
+
+---
+
+#### Salespeople Who Quit
+Selling is about a transference of emotion, not a presentation of facts. if it were just a presentation of facts, then a PDF flyer or a Website would be sufficient(enough) to make the phone ring.
+
+Please understand this: If you'are not able to get through the Dip in an exceptional way, you must quit and change your focus to something else.
+
+---
+
+#### Facing the Dip
+Hence the Dip of market acceptance. The marketers who get rewarded are the ones who don't quit. They hunker down through the Dip and galvanize, protect, insulate and perfect their product while others keep looking for yet another quick hit.
+
+Job seekers face the Dip because human resources departments support it. HR doesn't show up at your door and offer you a job. They set hurdles (like submitting a résumé or wearing a suit or flying to Cleveland) as a way of screening out the folks who aren't actually serious about a job.
+
+It's easy to be seduced by the new money and the rush to the fresh. The problem is that this leads to both an addiction and a very short attention span. If it doesn't work today, the thinking goes, why should I wait around until tomorrow? The problem is that only a tiny portion of the audience is looking for the brand-new thing. Most people are waiting for the tested, the authenticated, and the proven.
+
+Very quietly, the Microsofts of the world hang in, going from version 1 to version 2, knowing that by version 3, the world will be a different (and better) place for them. Microsoft failed twice with Windows, four times with Word, three times with Excel. The entire company is based on the idea of slogging through the Dip, relentlessly changing tactics but never quitting the big idea.
+
+<img src='/The Dip/Assets/yet.jpg'/>
+
+---
+
+#### What Business Are You In?
+
+---
