@@ -418,7 +418,7 @@ Here are a bunch of systems that are dependent on Dips. These Dips are in the pl
 - **Long-Term Benefits:**
 
   - Relationships cultivated during difficult times pay off later.
-  - Example: Someone who started in the mailroom and built relationships became the CEO.
+  - Example: Someone who started in the mail room and built relationships became the CEO.
 
 - **Shortsighted Approach:**
 
@@ -502,12 +502,14 @@ Here are a bunch of systems that are dependent on Dips. These Dips are in the pl
 ---
 
 #### Seeing the Curve in Advance
+
 it's pretty easy to determine whether something is a Cul-de-Sac or a Dip. The hard part is finding the guts to do something about it.
 The pain (and the waste) comes when the optimists have to make hard choices when they get stuck in the Dip.
 
 ---
 
 #### Time to Cancel the Space Shuttle
+
 There's no reason to keep investing in something that is not going to get better.
 
 Do you have the guts to quit when facing a Cul-de-Sac?
@@ -517,17 +519,19 @@ So why don't we cancel it? Why not quit? Same reason as always. Because day to d
 ---
 
 #### The Valley of Death
+
 That's the goal of any competitor: to create a Dip so long and so deep that the nascent competition can't catch up.
 
 Microsoft does it. They've built so many relationships and established so many standards that it's essentially inconceivable that someone will challenge Word or Excel-at least until the platform changes.
 
 Make it through the competition's barriers and you get to be king for a while.
 
-See the book's examples on dominating the market. 
+See the book's examples on dominating the market.
 
 ---
 
 #### The Big Opportunity
+
 If you can get through the Dip, if you can keep going when the system is expecting you to stop, you will achieve extraordinary results. very few people persist through a challenging period (the Dip) to achieve success on the other side, so they generate more value.
 
 When you're the best in the world, you share the benefits (the income, the attention, the privileges, the respect) with just a handful of people or organizations or brands.
@@ -536,20 +540,21 @@ You know this already. You're not stupid, and you've noticed all your life that 
 
 Because you grew up believing that quitting is a moral failing. Quitting feels like a go-down moment, a moment, where you look yourself in the eye and blink. Of course you are trying your best. But you just can’t do it.
 
-You should rather have focus on quitting (or not quitting) as a go-up opportunity. Quitting stuff you don't care about or the stuff you're mediocre or better yet quitting the Cul-de-Sacs frees up your resources to obsess about the Dips that matter, You should remember that it's not about avoiding the humilation of failure.
+You should rather have focus on quitting (or not quitting) as a go-up opportunity. Quitting stuff you don't care about or the stuff you're mediocre or better yet quitting the Cul-de-Sacs frees up your resources to obsess about the Dips that matter, You should remember that it's not about avoiding the humiliation of failure.
 
 ---
 
 #### Average Is for Losers
+
 Quitting at the right time is difficult. Most of us don't have the guts to quit. Worse, when faced with the Dip, sometimes we don't quit. Instead, we get mediocre.
 
-The most common response to the Dip is to play it safe. To do ordinary work, blameless work, work that's beyond reproach. When faced the Dip, most people try to average their way to sucess.
+The most common response to the Dip is to play it safe. To do ordinary work, blameless work, work that's beyond reproach. When faced the Dip, most people try to average their way to success.
 
 To be the best in the world, you must do something exceptional. Not just survive the Dip, but use the Dip as an opportunity to create something so extraordinary that people can't help but talk about it, recommend it and, of course, choose it.
 
 <img src='/The Dip/Assets/fail.jpg'/>
 
-The next time you catch yourself being average when you feeel like quitting, realize that you have only two good choices: Quit ir be Exceptional. Average is for losers.
+The next time you catch yourself being average when you feel like quitting, realize that you have only two good choices: Quit ir be Exceptional. Average is for losers.
 
 Average feels safe but it's not. it's the last choice - path of least resistance. The temptation to be average is just another kind of quitting, which should be avoided.
 
@@ -558,15 +563,17 @@ You deserve better than average.
 ---
 
 #### Serial Quitters Spend a Lot of Time in Line
+
 While starting up something new is thrilling, your effort will only pays off after you get through the Dip.
-Countless entrepreneurs have perfected the starting part, but give up long before finishing paying their dues.    
+Countless entrepreneurs have perfected the starting part, but give up long before finishing paying their dues.  
 The bad news is that when you start over, you get very little credit for how long you stood in line with your last great venture.
 
-if it takes ten impressions to make an impact, and you've delieved the eight, that switch is going to cost you a lot of time, money and energy.
+if it takes ten impressions to make an impact, and you've delivered the eight, that switch is going to cost you a lot of time, money and energy.
 
 ---
 
 #### Salespeople Who Quit
+
 Selling is about a transference of emotion, not a presentation of facts. if it were just a presentation of facts, then a PDF flyer or a Website would be sufficient(enough) to make the phone ring.
 
 Please understand this: If you'are not able to get through the Dip in an exceptional way, you must quit and change your focus to something else.
@@ -574,24 +581,26 @@ Please understand this: If you'are not able to get through the Dip in an excepti
 ---
 
 #### Facing the Dip
+
 Hence the Dip of market acceptance. The marketers who get rewarded are the ones who don't quit. They hunker down through the Dip and galvanize, protect, insulate and perfect their product while others keep looking for yet another quick hit.
 
-Job seekers face the Dip because human resources departments support it. HR doesn't show up at your door and offer you a job. They set hurdles (like submitting a résumé or wearing a suit or flying to Cleveland) as a way of screening out the folks who aren't actually serious about a job.
+Job seekers face the Dip because human resources departments support it. HR doesn't show up at your door and offer you a job. They set hurdles (like submitting a resume or wearing a suit or flying to Cleveland) as a way of screening out the folks who aren't actually serious about a job.
 
 It's easy to be seduced by the new money and the rush to the fresh. The problem is that this leads to both an addiction and a very short attention span. If it doesn't work today, the thinking goes, why should I wait around until tomorrow? The problem is that only a tiny portion of the audience is looking for the brand-new thing. Most people are waiting for the tested, the authenticated, and the proven.
 
-Very quietly, the Microsofts of the world hang in, going from version 1 to version 2, knowing that by version 3, the world will be a different (and better) place for them. Microsoft failed twice with Windows, four times with Word, three times with Excel. The entire company is based on the idea of slogging through the Dip, relentlessly changing tactics but never quitting the big idea.
+Very quietly, the "Microsofts" of the world hang in, going from version 1 to version 2, knowing that by version 3, the world will be a different (and better) place for them. Microsoft failed twice with Windows, four times with Word, three times with Excel. The entire company is based on the idea of slogging through the Dip, relentlessly changing tactics but never quitting the big idea.
 
 <img src='/The Dip/Assets/yet.jpg'/>
 
 ---
 
 #### What Business Are You In?
-You should (must) have to quit the product or feature or design, and yes you need to do it regurarly, if you're going to grow and have the resources to invest in the right businesses. But no, you mustn't quit a market or a strategy or a niche.
+
+You should (must) have to quit the product or feature or design, and yes you need to do it regularly, if you're going to grow and have the resources to invest in the right businesses. But no, you mustn't quit a market or a strategy or a niche.
 
 Don't fall in love with a tactic and defend it forever. Instead, decide once and for all whether you're in a market or not. And if you are, get through that Dip.
 
-Persistence is key in the market's eyes. Don't be discouraged by setbacks – overcoming challenges demonstrates your commitment.  The market seeks signals of credibility, strength, and reliability.  Remember, most people prefer established and trusted options.
+Persistence is key in the market's eyes. Don't be discouraged by setbacks – overcoming challenges demonstrates your commitment. The market seeks signals of credibility, strength, and reliability. Remember, most people prefer established and trusted options.
 
 ---
 
@@ -602,11 +611,13 @@ the opposite of quitting is rededication. The opposite of quitting is an invigor
 ---
 
 #### It's a mistake to view the Dip as static
+
 When the pain gets so bad that you're ready to quit, you've set yourself up as someone with nothing to lose. And someone with nothing to lose has quite a bit of power. You can go for broke. Challenge authority. Attempt unattempted alternatives. Lean into a problem; lean so far that you might just lean right through it.
 
 ---
 
 #### Giving up in the Dip Is Usually a Short-term Decision-and a Bad One
+
 A common mistake with lasting consequences. When people quit, they are often focused on the short-term benefits. People often prioritize immediate relief from difficulty, stopping when things get challenging, In other words, "If it hurts, they just stop to get rid of pain"
 
 ---
@@ -627,7 +638,7 @@ The decision to quit or not is a simple evaluation: Is the pain of the Dip worth
 
 > It’s okay to quit, sometimes.
 
-**In fact, it's okay to quit often.**   
+**In fact, it's okay to quit often.**  
 You should quit if you're on a dead-end path. You should quit if you're facing a Cliff. You should quit if the project you're working on has a Dip that isn't worth the reward at the end. Quitting the projects that don't go anywhere is essential if you want to stick out the right ones. You don't have the time or the passion or the resources to be the best in the world at both.
 
 ---
@@ -637,12 +648,15 @@ You should quit if you're on a dead-end path. You should quit if you're facing a
 Getting off a Cul-de-Sac is not a moral failing. It's just smart. Seeing a Cliff coming far in advance isn't a sign of weakness. Instead, it represents real insight and bravery. It frees up your energy for the Dip.
 
 ---
+
 #### That Noise Inside Your Head
 
-
+You should, you Must, quit all the Cul-de-sacs you are facing, stop explaining to yourself why the aren't really dead ends (they are). Stop just settling for being average.
 
 ---
+
 #### Quitting as an Intelligent Strategy
+
 The time to look for a new job is when you don't need one. The time to switch jobs is before it feels comfortable. Go. Switch. Challenge yourself; get yourself a raise and a promotion. You owe it to your career and your skills.
 
 If your job is a Cul-de-Sac, you have to quit or accept the fact that your career is over.
@@ -661,9 +675,153 @@ It's easy to wring your hands about becoming a failure. Quitting smart, though, 
 
 #### Coping Is a Lousy Alternative to Quitting
 
-
+Coping is what people do when they try to muddle through. They cope with a bad job or a difficult task. The problem with coping is that it never leads to exceptional performance. Mediocre work is rarely because of a lack of talent and often because of the Cul-de-Sac. All coping does is waste your time and misdirect your energy. If the best you can do is cope, you're better off quitting. Quitting is better than coping because quitting frees you up to excel at something else.
 
 ---
 
+#### "Never Quit"
 
+Quitting as a short-term strategy is a bad idea. Quitting for the long term is an excellent idea.
 
+Never quit something with great long term potential just because you can't deal with the stress of the moment.
+
+---
+
+#### Pride Is the Enemy of the Smart Quitter
+
+When you're facing a Cul-de-Sac, what's your reason for sticking? Are you too proud to quit?
+
+One reason people feel really good after they quit a dead-end project is that they discover that hurting one's pride is not fatal. You work up the courage to quit, bracing yourself for the sound of your ego being ripped to shreds-and then everything is okay.
+
+If pride is the only thing keeping you from quitting, if there's no Dip to get through, you're likely wasting an enormous amount of time and money defending something that will heal pretty quickly.
+
+---
+
+#### Harvard Medical School Is Not a Reason to Stick (Ignore Sunk Costs!)
+
+You don't have to spend the rest of your life doing something you don't enjoy in order to preserve your pride.
+
+---
+
+#### Three Questions to Ask Before Quitting
+
+If you're thinking about quitting (or not quitting), then you've succeeded.
+
+Realizing that quitting is worth your focus and consideration is the first step to becoming the best in the world. The next step is to ask three questions.
+
+##### QUESTION 1: AM I PANICKING?
+
+Quitting is not the same as panicking. Panic is never premeditated. Panic attacks us, it grabs us, it is in the moment  
+Quitting when you're panicked is dangerous and expensive.  
+The best quitters, as we've seen, are the ones who decide in advance when they're going to quit. You can always quit later-so wait until you're done panicking to decide
+
+When the pressure is greatest to compromise, to drop out, or to settle, your desire to quit should be at its lowest. The decision to quit is often made in the moment. But that's exactly the wrong time to make such a critical decision. The reason so many of us quit in the Dip is that without a compass or a plan, the easiest thing to do is to give up. While that might be the easiest path, it's also the least successful one
+
+##### QUESTION 2: WHO AM I TRYING TO INFLUENCE?
+
+If you're considering quitting, it's almost certainly because you're not being successful at your current attempt of influence.
+
+If you're trying to influence a market, the rules are different. Sure, some of the people in a market have considered you (and even rejected you). But most of the people in the market have never even heard of you. The market doesn't have just one mind. Different people in the market are seeking different things.
+
+Influencing one person is like scaling a wall. If you get over the wall the first few tries, you're in. If you don't, often you'll find that the wall gets higher with each attempt.
+
+Influencing a market, on the other hand, is more of a hill than a wall. You can make progress, one step at a time, and as you get higher, it actually gets easier. People in the market talk to each other. They are influenced by each other. So every step of progress you make actually gets amplified.
+
+##### QUESTION 3: WHAT SORT OF MEASURABLE PROGRESS AM I MAKING?
+
+If you're trying to succeed in a job or a relationship or at a task, you're either moving forward, falling behind, or standing still. There are only three choices.
+
+To succeed, to get to that light at the end of the tunnel, you've got to make some sort of forward progress, no matter how small. Too often, we get stuck in a situation where quitting seems too painful, so we just stay with it, choosing not to quit because it's easier than quitting. That choice—to stick with it in the absence of forward progress-is a waste. It's a waste because of the opportunity cost-you could be doing something far better, and far more pleasurable, with your time.
+
+When you are trying to influence an entire market, the value of not quitting is quite high. Yes, you should probably be eager to quit a marketing tactic that isn't paying for itself, or even a particular product feature that isn't appealing to your target audience. But your commitment to the market needs to be unquestioned—it's much cheaper and easier to build your foundation in one market than to flit from one to another until you find a quick success.
+
+Quitting a job is not quitting your quest to make a living or a difference or an impact. Quitting a job doesn't have to mean giving up. A job is just a tactic, a way to get to what you really want. As soon as your job hits a dead end, it makes sense to quit and take your quest to a bigger marketplace-because every day you wait puts your goal further away.
+
+The same is true for an organization. You don't define yourself by the tactics you use. Instead, your organization succeeds or fails in its efforts to reach its big goals. And the moment your tactics are no longer part of winning the Dip-the moment they are in a Cul-de-Sac-you are obligated to switch tactics at the same time you most definitely keep aiming for the bigger goal.
+
+---
+
+#### Quitting Before You Start
+
+Here's an assignment for you: Write it down. Write down under what circumstances you're willing to quit. And when. And then stick with it.
+
+---
+
+#### Deciding in Advance When to Quit
+
+Decide before the race the conditions that will cause you to stop and drop out.  
+If you are making a decision based on how you feel at that moment, you will probably make the wrong decision.
+
+If quitting is going to be a strategic decision that enables you to make smart choices in the marketplace, then you should outline your quitting strategy before the discomfort sets in.
+
+If quitting in the face of the Dip is a bad idea, then quitting when you're facing a Cul-de-Sac is a great idea. The hard part is having the perspective to see this when you're in pain, or frustrated, or stuck. That's why setting your limits before you start is so powerful.
+
+---
+
+#### Soft Tires...Pick Your Dip
+
+If you enter a market that's too big or too loud for the amount of resources you have available, your message is going to get lost. Your marketing disappears, your message fails to spread. Think twice before launching a mass market brand of chewing gum. Like adding just a few pounds of air to a flat tire, launching a product into too big of a market has little effect. You can't create pressure and you never reach the Dip.
+
+---
+
+#### You're Astonishing
+
+How dare you waste it.
+
+You and your organization have the power to change everything. To create remarkable products and services. To over deliver. To be the best in the world.
+
+How dare you squander that resource by spreading it too thin. How dare you settle for mediocre just because you're busy coping with too many things on your agenda, racing against the clock to get it all done.
+
+The lesson is simple: If you've got as much as you've got, use it. Use it to become the best in the world, to change the game, to set the agenda for everyone else. You can only do that by marshaling all of your resources to get through the biggest possible Dip. In order to get through that Dip, you'll need to quit everything else. If it's not going to put a dent in the world, quit. Right now.
+
+Quit and use that void to find the energy to assault the Dip that matters.
+
+Go ahead, make something happen. We're waiting.
+
+---
+
+### Questions
+
+- Is this a Dip, a Cliff, or a Cul-de-Sac?
+- If it's a Cul-de-Sac, how can I change it into a Dip?
+- Is my persistence going to pay off in the long run?
+- Am i engaged with just one person (or organization), or do my actions in this situation spill over into the entire marketplace?
+- When should I quit? I need to decide now, not when I'm in the middle of it, and not when part of me is begging to quit.
+- If I quit this task, will it increase my ability to get through the Dip oon something more important?
+- If I'm going to quit anyway, is there something dramatic I can do instead that might change the game?
+- Should I really be calling on IBM? Should I really be trying to get on Oprah?
+- What chance dies this project have to be the best in the world?
+- Who decides what best is?
+- Can we make the world smaller?
+- Does it make sense to submit a resume to every single ad on Craigslist, just to see what happens?
+- If I like my job, is it time to quit?
+- Is doing nothing better than planning on quitting and then doing something great?
+- Are you avoiding the remarkable as a way of quitting without quitting?
+- If it scares you, it might be a good thing to try.
+
+---
+
+#### It's Almost Impossible to Overinvest in Becoming the Market Leader.
+
+> `All our successes are the same.`
+>
+> `All our failures, too.`
+>
+> `We succeed when we do something remarkable.`
+>
+> `We fail when we give up too soon.`
+>
+> `We succeed when we are the best in the world at what we do.`
+>
+> `We fail when we get distracted by tasks we don't have the guts to quit.`
+
+---
+
+If you've enjoyed The Dip, check out these other thought-provoking, bestselling books by Seth Godin:
+
+- **_Small Is the New Big_**
+- **_All Marketers Are Liars_**
+- **_Free Prize Inside!_**
+- **_Purple Cow_**
+- **_Unleashing the Ideavirus_**
+- **_Permission Marketing_**
