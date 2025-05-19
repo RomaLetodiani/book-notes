@@ -52,3 +52,7 @@ You can learn whatever you want from them. They left their lesson plans in their
 </div>
 
 ## School Yourself
+
+School is one thing. Education is another.
+
+Whether you're in school or not, it's always your job to get yourself an education.
